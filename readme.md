@@ -1,37 +1,45 @@
-# Sistema de Carrito 
+# 🛒 Sistema de Carrito
 
-## Objetivo:
+## 🎯 Objetivo:
+    Realizar un sistema de carrito utilizando los siguientes conocimientos:
 
-Realizar un sistema de carrito utilizando los siguientes conocimientos:
+## 🔧 POO
+    Herencia incluyendo: polimorfismo, encapsulamiento y abstracción
 
-1. ** POO
- herencia incluyendo; polimorfismo, encapsulamiento y abstraccion
-2. ** Condiciones
- if, elif
-3. ** Ciclos
- while,for
-4. ** Funciones 
-  :)
-## Features:
+## 🔍 Condiciones
+    if, elif
 
-### General:
-* Interfaz(Base) para Empleados y/o Usuarios
+## 🔁 Ciclos
+    while, for
 
-1. ** Empleados:
+## 🧠 Funciones
+    :)
 
-    *Cambio de precio (Productos)
-    *Cambio de status
-    *Adicion de productos
-    *Mostrar info de productos
+### 🌟 Features:
+    🧩 General:
+        Interfaz (Base) para Empleados y/o Usuarios 👥
 
-2. ** Usuarios:
+#### 👨‍💼 Empleados:
 
-    *Agregar a carro productos
-    *Remover de carro producto
-    *Vaciar carro
-    *Listar productos deseados
-    *Comprar
+    🔄 Cambio de precio (Productos)
 
-### Funcionamiento: 
+    ⚙️ Cambio de status
 
-    HAKUNA MATATA
+    ➕ Adición de productos
+
+    🔍 Mostrar info de productos
+
+#### 🛍️ Usuarios:
+
+    ➕ Agregar a carro productos
+
+    ➖ Remover de carro producto
+
+    🗑️ Vaciar carro
+
+    📋 Listar productos deseados
+
+    💳 Comprar
+
+⚙️ Funcionamiento:
+    ✨ HAKUNA MATATA ✨
